@@ -1,0 +1,4 @@
+# https://colab.research.google.com/github/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/Exercises_2.ipynb#scrollTo=-pBVSxDs8fGq
+# https://colab.research.google.com/github/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/Exercises_1.ipynb#scrollTo=bX6XMJYJ5ZGQ
+print('hi)
+
